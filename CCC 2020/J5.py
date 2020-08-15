@@ -1,3 +1,9 @@
+'''
+TLE Warning
+This solution is not fast enough to pass all test cases
+If you have a solution that ACs all test case, please submit a PR
+'''
+
 a, b = int(input()), int(input())
 c = []
 d = []
