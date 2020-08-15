@@ -1,3 +1,8 @@
+'''
+Loop through each char
+if phrase, yes, break
+else, move last char to first, loop
+'''
 a=input()
 b=input()
 for i in range (len(b)):
